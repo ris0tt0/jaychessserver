@@ -1,0 +1,1 @@
+{"version":3,"file":"ChessGame.js","sourceRoot":"","sources":["../../src/data/ChessGame.ts"],"names":[],"mappings":";;AAAA,uCAA0D;AA2B7C,QAAA,eAAe,GAAU,IAAI,iBAAM,CAC5C;IACI,YAAY,EAAC,MAAM;IACnB,UAAU,EAAC,OAAO;IAClB,cAAc,EAAC,OAAO;IACtB,aAAa,EAAC,MAAM;IACpB,KAAK,EAAC,KAAK;CACd,CACJ,CAAC;AAEW,QAAA,oBAAoB,GAAyB,gBAAK,CAAiB,WAAW,EAAE,uBAAe,CAAC,CAAC"}
